@@ -1,11 +1,11 @@
 (function (window) {
-    var MohsinGreeter = {};
-    MohsinGreeter.name = "John";
+    var mohsinGreeter = {};
+    mohsinGreeter.name = "John";
     var greeting = "Hi ";
-    MohsinGreeter.sayHi = function () {
-      console.log(greeting + MohsinGreeter.name);
+    mohsinGreeter.sayHi = function () {
+      console.log(greeting + mohsinGreeter.name);
     }
   
-    window.MohsinGreeter = MohsinGreeter;
+    window.mohsinGreeter = mohsinGreeter;
   
   })(window);

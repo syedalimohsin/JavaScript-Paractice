@@ -1,5 +1,5 @@
-AliGreeter.sayHello();
-MohsinGreeter.sayHi();
+aliGreeter.sayHello();
+mohsinGreeter.sayHi();
 
 // Immediately Invoked Function Expression
 // IIFE
